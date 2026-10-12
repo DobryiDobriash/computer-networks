@@ -1,1 +1,2 @@
-# computer-networks
+Carev Sergey
+Урок 15. TCP и UDP: надежность, порядок и цена соединения.
